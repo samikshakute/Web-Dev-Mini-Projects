@@ -1,0 +1,20 @@
+.red-text {
+    color: red; 
+}
+
+h2 {
+     font-family: 'Lobster', monospace;
+}
+.thick-green-border {
+     border-width: 10px;
+     border-radius: 50%;
+     border-color: green;
+     border-style: solid;
+}
+.thivk green
+.silver-background {
+     background-color: silver;
+}
+[type = 'radio'] {
+     margin: 20px 0px 20px 0px;
+}
