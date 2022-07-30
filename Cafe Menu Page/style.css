@@ -1,0 +1,77 @@
+h1,
+h2,
+body {
+  text-align: center;
+}
+
+body {
+  margin-top: 4%;
+  background-image: url("cofee-img.jpeg");
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.menu {
+  background-color: burlywood;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  padding: 20px;
+}
+
+.flavor,
+.dessert {
+  text-align: left;
+  width: 75%;
+}
+
+.price {
+  text-align: right;
+  width: 25%;
+}
+
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.established {
+  font-style: italic;
+}
+
+.social {
+  width: 30px;
+  height: 30px;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h1,
+h2 {
+  font-family: Impact, serif;
+}
+
+footer {
+  font-size: 14px;
+}
+
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
+}
+.bottom-text {
+  margin-top: 25px;
+  font-size: 14px;
+}
